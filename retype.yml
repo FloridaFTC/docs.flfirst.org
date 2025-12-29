@@ -11,6 +11,13 @@ branding:
   title: Florida FIRST Tech Challenge
   label: Docs
 
+exclude:
+  - .github/
+  - .retype/
+  - .vscode/
+  - README.md
+  - LICENSE
+
 links:
   - text: Getting Started
     link: https://retype.com/guides/getting-started/
