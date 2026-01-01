@@ -1,4 +1,5 @@
 ---
+icon: home
 order: 100
 ---
 
