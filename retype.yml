@@ -23,7 +23,7 @@ links:
     link: https://retype.com/guides/getting-started/
 
 footer:
-  copyright: "&copy; Copyright {{ year }} Orlando Robotics Foundation. FIRST® and FIRST® Tech Challenge (formerly also known as FTC®) are trademarks of For Inspiration and Recognition of Science and Technology (FIRST®). This project is not affiliated with FIRST® and FIRST® provides no warranty or support."
+  copyright: "&copy; Copyright {{ year }} Orlando Robotics Foundation. FIRST® and FIRST® Tech Challenge (formerly also known as FTC®) are trademarks of For Inspiration and Recognition of Science and Technology (FIRST®). This project is not controlled by FIRST®, and FIRST® provides no warranty or support."
 
 # theme:
 #   base:
