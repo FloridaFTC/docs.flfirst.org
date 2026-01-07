@@ -15,4 +15,5 @@ The following pages require regular review and update:
 
 The following pages need periodic review for accuracy:
 
+- [Event Checklist](teams/event-checklist.md): update with any process changes and change year in link to Region Manager
 - [Trophy Ordering](leagues/trophies.md): update with any process changes and change example engraving year
