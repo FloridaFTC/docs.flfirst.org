@@ -48,7 +48,7 @@ Armed with these decisions, you're ready to order.
 Create an account on https://ftc.firstinspiresawards.com/ to get started.
 Then, choose your items:
 
-=== (1) Leagues & Qualifiers Kit
+=== [!badge variant="success" text="Required"] (1) Leagues & Qualifiers Kit
 
 Choose the kit size that corresponds with the size of your league.
 This includes the majority of trophies, trophy plates, and medals for the Inspire Award.
@@ -60,7 +60,7 @@ This includes the majority of trophies, trophy plates, and medals for the Inspir
   - Under additional engraving details, you have about 25 characters of space.
     This is enough for “Inspire Award 2025–26”.
 
-=== (1) (Optional) Judges’ Choice Award trophy
+=== [!badge Optional] (1) Judges’ Choice Award trophy
 
 Choose the 4x7 (medium) trophy to match the other trophies, as this award earns the same number of advancement points as the other awards.
 
@@ -68,7 +68,7 @@ Choose the 4x7 (medium) trophy to match the other trophies, as this award earns 
   The official term is “League Tournament”, not “League Championship”.
 - Select the Award Name **Judges’ Choice**.
 
-=== (1) (Optional) Volunteer of the Year Plaque
+=== [!badge Optional] (1) Volunteer of the Year Plaque
 
 Any size option is acceptable.
 
@@ -76,7 +76,7 @@ Any size option is acceptable.
   The official term is “League Tournament”, not “League Championship”.
 - Select the Award Name **Volunteer of the Year**.
 
-=== (20) (Optional) Winning Alliance Medals
+=== [!badge Optional] (20) Winning Alliance Medals
 
 The 20 count is based on an estimate of 10 students per team x 2 winning alliance teams.
 If you engrave the medals, they are not reusable, so you may choose to order fewer and work with winning coaches to order more after the event.

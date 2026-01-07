@@ -5,4 +5,4 @@ order: 100
 
 # Overview
 
-This section contains information for current and prospective _FIRST_ Tech Challenge leagues.
+This section contains information for _FIRST_ Tech Challenge league leaders.
