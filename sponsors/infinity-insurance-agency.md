@@ -26,7 +26,7 @@ Their support enables us to expand our reach and defray the cost of participatio
 
 ## 2026 Lawrence Division Sponsor
 
-Infinity Auto Insurance sponsored the Wendy B. Lawrence division of the 2026 Florida Championship event.
+Infinity Insurance Agency sponsored the Wendy B. Lawrence division of the 2026 Florida Championship event.
 Thank you!
 
 ## 2026 Trophy Sponsor
