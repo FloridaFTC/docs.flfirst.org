@@ -2,9 +2,9 @@
 date: 2026-01-04
 ---
 
-# Dean's List Award
+# _FIRST_ Leadership Award
 
-This document contains an overview of the Dean's List Award process for league leaders.
+This document contains an overview of the _FIRST_ Leadership Award process for league leaders.
 
 === Information for the 2025–2026 season
 
@@ -15,9 +15,9 @@ Timeline:
 | -------- | -------- |
 | **December 15, 2025** | Deadline for nominations from teams. |
 | **December 16, 2025** | Information about nominations becomes available to the PDP. |
-| **January 4–17, 2026** | Designated timeframe for Dean's List Interviews across the state. |
+| **January 4–17, 2026** | Designated timeframe for _FIRST_ Leadership Award Interviews across the state. |
 | **January 18, 2026** | Interview notes are due. |
-| **League Tournament** | Recognize the nominated students as Dean's List Semi-Finalists |
+| **League Tournament** | Recognize the nominated students as _FIRST_ Leadership Award Semi-Finalists |
 
 Volunteer express signup:
 
@@ -27,7 +27,7 @@ Volunteer express signup:
 
 Summary from _FIRST_:
 
-> In an effort to recognize the leadership and dedication of _FIRST_’s most outstanding secondary school students, the Kamen family sponsors an award for selected tenth and eleventh grade students known as the _FIRST®_ Robotics Competition and _FIRST®_ Tech Challenge Dean’s List.
+> The _FIRST_ Leadership Award recognizes the dedication and individual contributions of outstanding secondary school students participating on *FIRST*® Tech Challenge or *FIRST*® Robotics Competition teams.
 
 In short:
 
@@ -37,24 +37,24 @@ In short:
 - Reviewers select Finalists from around the state
 - Winners are selected from around the world
 
-[!ref target="blank" text="Learn More"](https://www.firstinspires.org/resources/library/ftc/deans-list)
+[!ref target="blank" text="Learn More"](https://www.firstinspires.org/resources/library/ftc/leadership-award)
 
 ==- Terms used in this document
 
-Dean's List **Semi-Finalist**
-: Any student nominated by their coach is considered a Dean's List Semi-Finalist
+_FIRST_ Leadership Award **Semi-Finalist**
+: Any student nominated by their coach is considered a _FIRST_ Leadership Award Semi-Finalist
 
-Dean's List **Finalist**
-: Students selected by Florida's _Dean's List Reviewers_ are considered Dean's List Finalists
+_FIRST_ Leadership Award **Finalist**
+: Students selected by Florida's _FIRST Leadership Award Reviewers_ are considered _FIRST Leadership Award Finalists_
 
-Dean's List **Winners**
-: The top 10 students selected from around the world are considered Dean's List Winners
+_FIRST_ Leadership Award **Winners**
+: The top 10 students selected from around the world are considered _FIRST_ Leadership Award Winners
 
-Dean's List **Interviewers**
+_FIRST_ Leadership Award **Interviewers**
 : Volunteers from each league that interview nominees / semi-finalists and provide written notes to enhance the nominations
 
-Dean's List **Reviewers**
-: Volunteers that review nominations and select Dean's List Finalists
+_FIRST_ Leadership Award **Reviewers**
+: Volunteers that review nominations and select _FIRST_ Leadership Award Finalists
 
 JA
 : Judge Advisor
@@ -67,34 +67,34 @@ PDP
 ## _The Short Version_
 
 - Coaches nominate students
-- Leagues recruit _Dean's List Interviewers_
+- Leagues recruit _FIRST Leadership Award Interviewers_
 - Interviewers interview nominees and submit notes
 - Leagues recognize nominees at the League Tournament
 
 ## Nominations
 
-Coaches can nominate up to two students, in 10th or 11th grade, for the Dean's List Award each year.
+Coaches can nominate up to two students, in 10th or 11th grade, for the _FIRST_ Leadership Award each year.
 Nominations have a global deadline set by _FIRST_.
 **Please encourage coaches to nominate their students.**
-Share the [Dean's List Nomination Guide](https://www.firstinspires.org/hubfs/web/program/ftc/deans-list-nomination-guide.pdf?hsLang=en) for more information.
+Share the [Nomination Guide](https://www.firstinspires.org/hubfs/web/program/ftc/deans-list-nomination-guide.pdf?hsLang=en) for more information.
 
 We aren't able to see any information about the nominations until after the deadline (usually at noon on the day after the deadline).
 This includes the count of nominations, or how they are divided among the leagues.
 
 !!! Nomenclature
-Every nominated student is referred to as a **Dean's List Semi-Finalist**.
+Every nominated student is referred to as a **_FIRST_ Leadership Award Semi-Finalist**.
 !!!
 
 ## Recruiting Interviewers
 
-Individual leagues recruit **Dean's List Interviewers**.
+Individual leagues recruit **_FIRST_ Leadership Award Interviewers**.
 These volunteers will, in pairs, conduct interviews with the nominated students and provide written notes about the student in the Judging Portal.
 They **do** need to be unbiased individuals that are willing to advocate for each of the students, but they **do not** need to make any decisions about who "wins".
 
-Someone interested in volunteering as a Dean’s List Interviewer should do the following:
+Someone interested in volunteering as a _FIRST_ Leadership Award Interviewer should do the following:
 
-- Review the [Dean's List Interviewer Manual](https://ftc-resources.firstinspires.org/ftc/volunteer/deans-list-interviewer)
-- Sign up as a _Dean’s List Interviewer_ at the _Florida Dean’s List Interviews_ event in the FIRST Dashboard
+- Review the [_FIRST_ Leadership Award Interviewer Manual](https://ftc-resources.firstinspires.org/ftc/volunteer/deans-list-interviewer)
+- Sign up as a _FIRST Leadership Award Interviewer_ at the _Florida FIRST Leadership Award Interviews_ event in the _FIRST_ Dashboard
   - An express signup link is available in the overview panel above
 - They should ignore the dates listed for the event (more on this later)
 - Make it known (by emailing me, or having you email me) which league they will interview
@@ -116,11 +116,11 @@ Here are the constraints:
   Nominees may also have a silent observer present.
 - If a league has more than two interviewers, they may self-organize coverage of interviews however they see fit.
 
-The timeframe is a trade-off between giving Dean's List Interviewers as much time as possible, and giving the Dean’s List Reviewers sufficient time to review the interview notes and select finalists before their deadline.
+The timeframe is a trade-off between giving _FIRST_ Leadership Award Interviewers as much time as possible, and giving the _FIRST_ Leadership Award Reviewers sufficient time to review the interview notes and select finalists before their deadline.
 
 ## Recognizing Semi-Finalists
 
-Every nominated student is considered a Semi-Finalist for the Dean’s List Award.
+Every nominated student is considered a Semi-Finalist for the _FIRST_ Leadership Award.
 Leagues should recognize the Semi-Finalists at their League Tournament event.
 Some portion of a script (opening or awards) will likely include this.
 
