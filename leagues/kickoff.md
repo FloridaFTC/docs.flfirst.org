@@ -96,7 +96,7 @@ Include the following information:
 
 === _If your league's finances are handled by a different entity..._
 
-Order a game set directly from AndyMark.
+Order a [game set](https://andymark.com/collections/first-tech-challenge-2026-2027/products/ftc-2026-27-preorders?variant=46213916033196) directly from AndyMark.
 Important notes:
 
 - Do not include any other items in the order.
