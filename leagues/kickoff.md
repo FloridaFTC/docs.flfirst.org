@@ -7,7 +7,7 @@ order: 10
 
 Each season, _FIRST_ schedules a worldwide season kickoff (usually in the first half of September).
 This includes a worldwide broadcast that includes season updates, the official game reveal, and several walkthrough videos.
-Competition Manual and other resources are posted shortly afterwards.
+The Competition Manual and other resources are posted shortly afterwards.
 
 Here in Florida, we host a statewide live broadcast where we review region-specific news, show the official game announcement video, and provide commentary from our statewide head referees.
 Teams often gather to watch the broadcast together.
@@ -67,7 +67,7 @@ Here's what is required:
   - Provide equitable access to the field for all attendees to observe and measure the field
 
 If any other volunteers will assist with setup of the game set before the announcement, they will also need to sign an NDA.
-Send their names and email addresses to AJ Foster to arrange this.
+Send their names and email addresses to the Program Delivery Partner to arrange this.
 
 !!!warning
 
@@ -78,7 +78,7 @@ Game "leaks" erode trust in the program, and we should do everything we can to a
 
 ### Ordering
 
-Game sets pre-orders are typically available starting in May.
+Game set pre-orders are typically available starting in May.
 By default, they will be delivered after kickoff.
 To receive a game set before kickoff, additional steps are necessary:
 
@@ -87,9 +87,9 @@ Pre-kickoff game sets require coordination between four different parties.
 Following the instructions below will help _a lot_.
 !!!
 
-=== _If your league's finances are handled by the Orlando Robotics Foundation..._
+==- _If your league's finances are handled by the Orlando Robotics Foundation..._
 
-Contact AJ Foster to order a game set.
+Contact the Program Delivery Partner to order a game set.
 Include the following information:
 
 1. Information about the **responsible party**
@@ -104,7 +104,7 @@ Include the following information:
    a. Name
    b. Email address
 
-=== _If your league's finances are handled by a different entity..._
+==- _If your league's finances are handled by a different entity..._
 
 Order a [game set](https://andymark.com/collections/first-tech-challenge-2026-2027/products/ftc-2026-27-preorders?variant=46213916033196) directly from AndyMark.
 Important notes:
@@ -112,9 +112,9 @@ Important notes:
 - Do not include any other items in the order.
 - Include the following note with the order:
 
-> _This is a Program Delivery Partner Pre-Order for the Florida [League] Kickoff_
+> _This is a pre-order for the Florida [League] Kickoff_
 
-Then, contact AJ Foster with the following information:
+Then, contact the Program Delivery Partner with the following information:
 
 1. Information about the **responsible party** (must match the name on the order)
    a. Name
@@ -136,5 +136,5 @@ _FIRST_ will send an electronic NDA signature request to the responsible party a
 
 Pre-kickoff shipments are typically received 1–2 weeks before kickoff.
 It's important to open the order immediately and perform a full inventory of the included parts.
-(AJ will provide a materials inventory and setup instructions as soon as possible.)
-Contact AndyMark (and cc AJ) immediately if anything is missing.
+(The Program Delivery Partner will provide a materials inventory and setup instructions as soon as possible.)
+Contact AndyMark (and CC the PDP) immediately if anything is missing.
