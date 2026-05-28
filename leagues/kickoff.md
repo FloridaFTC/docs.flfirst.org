@@ -109,6 +109,7 @@ Include the following information:
 Order a [game set](https://andymark.com/collections/first-tech-challenge-2026-2027/products/ftc-2026-27-preorders?variant=46213916033196) directly from AndyMark.
 Important notes:
 
+- Only order one pre-kickoff game set — you can order additional game sets for post-kickoff shipment separately.
 - Do not include any other items in the order.
 - Include the following note with the order:
 
