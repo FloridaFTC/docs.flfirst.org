@@ -66,6 +66,9 @@ Here's what is required:
   - Maintain secrecy until approximately 12:30pm ET on kickoff day
   - Provide equitable access to the field for all attendees to observe and measure the field
 
+If any other volunteers will assist with setup of the game set before the announcement, they will also need to sign an NDA.
+Send their names and email addresses to AJ Foster to arrange this.
+
 !!!warning
 
 Receiving a pre-kickoff game set is a privilege that _FIRST_, AndyMark, and the Program Delivery Organization must all agree on.
@@ -89,10 +92,17 @@ Following the instructions below will help _a lot_.
 Contact AJ Foster to order a game set.
 Include the following information:
 
-1. Name of the responsible party
-2. Physical address of the responsible party
-3. Email address of the responsible party
-4. Reveal plan for the event
+1. Information about the **responsible party**
+   a. Name
+   b. Email address
+   c. Physical address (for shipment)
+2. **Reveal plan** for the event
+   a. Precautions for the arriving shipment
+   b. Precautions during setup and storage of the game set
+   c. Precautions prior to 12:30pm ET on event day
+3. Information about **additional volunteers** helping with initial game set construction or event setup
+   a. Name
+   b. Email address
 
 === _If your league's finances are handled by a different entity..._
 
@@ -100,17 +110,27 @@ Order a [game set](https://andymark.com/collections/first-tech-challenge-2026-20
 Important notes:
 
 - Do not include any other items in the order.
-- Include the following note with the order: **This is a Program Delivery Partner Pre-Order**
+- Include the following note with the order:
+
+> _This is a Program Delivery Partner Pre-Order for the Florida [League] Kickoff_
 
 Then, contact AJ Foster with the following information:
 
-1. Name and email address of the responsible party (must match the name on the order)
-2. Confirmed order number from AndyMark
-3. Reveal plan for the event
+1. Information about the **responsible party** (must match the name on the order)
+   a. Name
+   b. Email address
+2. Confirmed **order number** from AndyMark
+3. **Reveal plan** for the event
+   a. Precautions for the arriving shipment
+   b. Precautions during setup and storage of the game set
+   c. Precautions prior to 12:30pm ET on event day
+4. Information about **additional volunteers** helping with initial game set construction or event setup
+   a. Name
+   b. Email address
 
 ===
 
-_FIRST_ will send an electronic NDA signature request to the responsible party and authorize pre-kickoff shipment to AndyMark.
+_FIRST_ will send an electronic NDA signature request to the responsible party and any additional volunteers. AndyMark will check with _FIRST_ (who will check with the Program Delivery Partner) to confirm eligibility to receive a pre-kickoff shipment.
 
 ### Receiving
 
