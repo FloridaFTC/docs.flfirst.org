@@ -56,7 +56,7 @@ Leagues are encouraged to ask for RSVPs from teams outside of Region Manager for
 Under certain conditions, leagues may have a game set available to show at their in-person kickoff events.
 Here's what is required:
 
-- **Responsible Party**: Leagues must identify a responsible individual who can:
+- **Responsible Party**: Leagues must identify a responsible, non-team-affiliated individual who can:
   - Sign and respect an NDA with _FIRST_ related to game details
   - Receive a game set at their home without risk of exposure to participants or the public
   - Inventory and construct the game set
