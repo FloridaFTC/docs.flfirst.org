@@ -56,7 +56,7 @@ Despite being smaller in size, _FIRST_ Tech Challenge participants solve real en
 Beyond STEM skills, students can also gain experience with financial planning, marketing, fundraising, and communication.
 
 !!! Registration Fee
-_FIRST_ Tech Challenge charges a $325 registration fee for teams each season.
+_FIRST_ Tech Challenge charges a $350 registration fee for teams each season.
 Teams are required to have two registered coaches who consent to background screening each year.
 !!!
 
@@ -74,7 +74,7 @@ Every Program Delivery Organization names an individual **Program Delivery Partn
 [afoster@firstpartners.org](mailto:afoster@firstpartners.org)
 ||| Program Delivery Organization
 **Orlando Robotics Foundation**<br>
-PO Box 781291, Orlando, FL 32829
+PO Box 781291, Orlando, FL 32878
 |||
 
 If you have any questions about _FIRST_ Tech Challenge in Florida, finding a team, or starting one of your own, start with an email to the Program Delivery Partner.
