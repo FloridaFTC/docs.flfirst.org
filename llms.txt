@@ -1,0 +1,27 @@
+﻿# Florida FIRST Tech Challenge
+
+> Welcome to the documentation site for the Florida FIRST Tech Challenge program. This site contains information for teams and volunteers of the program.
+
+- [Florida FIRST Tech Challenge](https://docs.flfirst.org/index.md): Florida FIRST Tech Challenge
+- [Overview of the Program](https://docs.flfirst.org/overview.md): Whether you're new to FIRST® or just want to understand how it works in Florida, let's take a look at the program from big to small.
+
+## Teams
+
+- [Information for Teams](https://docs.flfirst.org/teams/home.md): This section contains information for current and prospective FIRST Tech Challenge teams.
+- [Getting Started](https://docs.flfirst.org/teams/getting-started.md): Interested in starting a new FIRST Tech Challenge team? Once you've read the overview of the program, here's a guide on getting started.
+- [Event Checklist](https://docs.flfirst.org/teams/event-checklist.md): Are you ready for your next League Meet or League Tournament event? Run through this checklist to make sure.
+- [Event Types](https://docs.flfirst.org/teams/event-types.md): FIRST Tech Challenge has several different types of events throughout the season. This document outlines the differences between them.
+- [Team Budget](https://docs.flfirst.org/teams/team-budget.md): Following is an estimate of costs associated with starting (rookie) and sustaining (veteran) a FIRST Tech Challenge team in Florida. Fundraising and outreach are important parts of the learning opportunity presented by the program, and there are awards related to each.
+
+## Leagues
+
+- [Information for Leagues](https://docs.flfirst.org/leagues/home.md): This section contains information for FIRST Tech Challenge league leaders.
+- [Season Kickoff](https://docs.flfirst.org/leagues/kickoff.md): Each season, FIRST schedules a worldwide season kickoff (usually in the first half of September). This includes a worldwide broadcast that includes season updates, the official game reveal, and several walkthrough videos.
+- [FIRST Leadership Award](https://docs.flfirst.org/leagues/fla.md): This document contains an overview of the FIRST Leadership Award process for league leaders.
+- [Trophy Ordering](https://docs.flfirst.org/leagues/trophies.md): This document contains information about ordering League Tournament trophies for league leaders.
+
+## Sponsors
+
+- [About Sponsorship](https://docs.flfirst.org/sponsors/home.md): The Florida FIRST Tech Challenge program relies on the generous support of our volunteers and sponsors. If you or your company are interested in supporting
+- [Infinity Insurance Agency](https://docs.flfirst.org/sponsors/infinity-insurance-agency.md): We are grateful to Infinity Insurance Agency for sponsoring the Florida FIRST Tech Challenge program and the 2026 Florida Championship.
+- [Visit Central Florida](https://docs.flfirst.org/sponsors/visit-central-florida.md): We are grateful to Visit Central Florida for years of support of the Florida Championship in Polk County, FL.
