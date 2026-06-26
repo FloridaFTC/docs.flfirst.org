@@ -12,6 +12,7 @@
 - [Event Checklist](https://docs.flfirst.org/teams/event-checklist.md): Are you ready for your next League Meet or League Tournament event? Run through this checklist to make sure.
 - [Event Types](https://docs.flfirst.org/teams/event-types.md): FIRST Tech Challenge has several different types of events throughout the season. This document outlines the differences between them.
 - [Team Budget](https://docs.flfirst.org/teams/team-budget.md): Following is an estimate of costs associated with starting (rookie) and sustaining (veteran) a FIRST Tech Challenge team in Florida. Fundraising and outreach are important parts of the learning opportunity presented by the program, and there are awards related to each.
+- [Training Resources](https://docs.flfirst.org/teams/training.md): Preparing to coach or mentor a FIRST team can be intimidating, but there are many resources available to help.
 
 ## Leagues
 
