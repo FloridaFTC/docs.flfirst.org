@@ -5,6 +5,8 @@ title: Team Budget
 Following is an estimate of costs associated with starting (rookie) and sustaining (veteran) a _FIRST_ Tech Challenge team in Florida.
 Fundraising and outreach are important parts of the learning opportunity presented by the program, and there are awards related to each.
 
+_FIRST_ publishes grant opportunities for teams on [its website](https://www.firstinspires.org/programs/team-grant-opportunities#program=first_tech_challenge).
+
 !!!
 A new _FIRST_ storefront, with updated options and pricing for several of the items listed below, will be available starting mid-July 2026.
 Amounts on this page are estimates until the new options become available.
