@@ -1,14 +1,16 @@
 ---
-date: 2026-01-04
+date: 2026-06-26
 ---
 
 # Trophy Ordering
 
 This document contains information about ordering League Tournament trophies for league leaders.
 
-_FIRST_ Tech Challenge requests that all events use the official trophy provider, Sports Awards.
-If you have an existing relationship with a different vendor, or an alternative method for acquiring or making trophies for your League Tournament, please consider the official request and make the best choice for your league.
+_FIRST_ Tech Challenge provides a standard Trophy design through its official trophy vendor, Sports Awards.
 Orders are placed on [their website](https://ftc.firstinspiresawards.com/).
+
+Leagues are **not required** to use the official venue, but they **are required** to find trophies of similar quality.
+If you have an existing relationship with a different vendor, or an alternative method for acquiring or making trophies for your League Tournament, please compare them with the official trophies and make the best choice for your league.
 
 ## Decisions
 
@@ -28,22 +30,22 @@ This award can be given at your league leadership’s discretion, and does not r
 It is **recommended** to order a plaque for this award if your leadership committee is comfortable nominating and choosing a Volunteer of the Year from your league.
 
 === Do you want to give out medals for the robot game winners?
-The “kit” only includes medals for the Inspire Award winner.
+The Sports Awards “kit” only includes medals for the Inspire Award winner.
 
 If you want to give out individual medals for members of the winning alliance, consider ordering 20 (average 10 per team).
-If a team needs more, leagues can order additional medals after the event.
+If a team needs more, the league or team can order additional medals after the event.
 
 === Do you want to engrave the event name, season, or award on the medals?
-By default, medals are completely blank except for a generic _FIRST_ Tech Challenge logo — no indication of the event, the season, or the award.
+By default, Sports Awards medals are completely blank except for a generic _FIRST_ Tech Challenge logo — no indication of the event, the season, or the award.
 Engraving is $0.75 each.
 
-It is **recommended** to engrave your (shortened) event name and “Inspire Award 2025–26” or “Winning Alliance 2025–26” as appropriate.
+It is **recommended** to engrave your (shortened) event name and “Inspire Award 2026–27” or “Winning Alliance 2026–27” as appropriate.
 
 ===
 
 Armed with these decisions, you're ready to order.
 
-## Make the Order
+## Make the Order (Sports Awards)
 
 Create an account on https://ftc.firstinspiresawards.com/ to get started.
 Then, choose your items:
@@ -58,7 +60,7 @@ This includes the majority of trophies, trophy plates, and medals for the Inspir
 - You may optionally choose to engrave the included Inspire Award medals.
   - This requires a shortened league or event name (for example, “Space Coast League” or “ORL League Tournament”).
   - Under additional engraving details, you have about 25 characters of space.
-    This is enough for “Inspire Award 2025–26”.
+    This is enough for “Inspire Award 2026–27”.
 
 === [!badge Optional] (1) Judges’ Choice Award trophy
 
@@ -73,7 +75,7 @@ Choose the 4x7 (medium) trophy to match the other trophies, as this award earns 
 Any size option is acceptable.
 
 - You must fill out the name of the event (for example, “Example League Tournament”).
-  The official term is “League Tournament”, not “League Championship”.
+  The official term is “League Tournament”, **not** “League Championship”.
 - Select the Award Name **Volunteer of the Year**.
 
 === [!badge Optional] (20) Winning Alliance Medals
@@ -84,13 +86,13 @@ Please balance the logistics, cost, and team experience as you see fit.
 
 - You may optionally choose to engrave the medals.
   - This requires a shortened league or event name (for example, “Space Coast League” or “ORL League Tournament”).
-  - Under additional engraving details, you have about 25 characters of space. This is enough for “Winning Alliance 2025–26”.
+  - Under additional engraving details, you have about 25 characters of space. This is enough for “Winning Alliance 2026–27”.
 
 ===
 
 Once you make the order, there are still two important tasks.
 
-## Proofs and Inspection
+## Proofs and Inspection (Sports Awards)
 
 After submitting the order, Sports Awards will send an email with proofs that must be approved before the order continues.
 
