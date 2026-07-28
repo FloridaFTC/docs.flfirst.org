@@ -101,28 +101,7 @@ Include the following information:
 
 ==- _If your league's finances are handled by a different entity..._
 
-Order a [game set](https://andymark.com/collections/first-tech-challenge-2026-2027/products/ftc-2026-27-preorders?variant=46213916033196) directly from AndyMark.
-Important notes:
-
-- Only order one pre-kickoff game set — you can order additional game sets for post-kickoff shipment separately.
-- Do not include any other items in the order.
-- Include the following note with the order:
-
-> _This is a pre-order for the Florida [League] Kickoff_
-
-Then, contact the Program Delivery Partner with the following information:
-
-1. Information about the **responsible party** (must match the name on the order)
-   a. Name
-   b. Email address
-2. Confirmed **order number** from AndyMark
-3. **Reveal plan** for the event
-   a. Precautions for the arriving shipment
-   b. Precautions during setup and storage of the game set
-   c. Precautions prior to 12:30pm ET on event day
-4. Information about **additional volunteers** helping with initial game set construction or event setup
-   a. Name
-   b. Email address
+Contact the Program Delivery Partner for instructions.
 
 ===
 
