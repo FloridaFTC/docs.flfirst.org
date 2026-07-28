@@ -18,8 +18,8 @@ Item | Rookie&nbsp;Cost | Veteran&nbsp;Cost | Notes
 _**Required**_ | | |
 _FIRST_&nbsp;Registration | $350 | $350 | Annual registration paid directly to _FIRST_.
 League Fee | $150–300 | $150–300 | Single fee paid to local league to fund League Meet and League Tournament events (exact amount depends on league).
-Electronics | $750 | $0[^1] | Required electronics for controlling the robot, similar to [this kit](https://www.revrobotics.com/rev-35-1906/).
-Starter Kit | $650 | $0 | Several manufacturers sell kits of parts that are sufficient for building a basic robot that meets some of the game challenges. [Here](https://www.gobilda.com/ftc-kits) is an example. These aren't required, but they are a great place to start.
+Electronics | $645 | $0[^1] | Required electronics for controlling the robot, similar to [this kit](https://www.revrobotics.com/rev-35-1906/).
+Starter Kit | $660 | $0 | Several manufacturers sell kits of parts that are sufficient for building a basic robot that meets some of the game challenges. [Here](https://www.gobilda.com/ftc-kits) is an example. These aren't required, but they are a great place to start.
 Game Elements | $50 | $50 | If you don't purchase a full or partial game set (below), it's a good idea to purchase some of the seasonal game elements to assist with designing and testing the robot.
 | | **~$2,000** | **$550–700** | **Total**
 _**Optional Extras**_ | | |
