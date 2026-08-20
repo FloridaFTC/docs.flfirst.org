@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="color-scheme" content="light dark">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="4.6.0.838596333090">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="4.6.0.840511553243">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 4.6.0">
@@ -38,11 +38,11 @@
     <script data-cfasync="false">(function(){var cl=document.documentElement.classList,ls=localStorage.getItem("retype_scheme"),hd=cl.contains("dark"),hl=cl.contains("light"),wm=window.matchMedia&&window.matchMedia("(prefers-color-scheme: dark)").matches;if(ls==="dark"||(!ls&&wm&&!hd&&!hl)){cl.remove("light");cl.add("dark")}else if(ls==="light"||(!ls&&!wm&&!hd&&!hl)){cl.remove("dark");cl.add("light")}})();</script>
 
     <link id="retype-favicon" rel="icon" href="../favicon.ico" />
-    <link href="../resources/css/retype.css?v=4.6.0.838596333090" rel="stylesheet">
+    <link href="../resources/css/retype.css?v=4.6.0.840511553243" rel="stylesheet">
 
-    <script data-cfasync="false" src="../resources/js/config.js?v=4.6.0.838596333090" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../resources/js/config.js?v=4.6.0.840511553243" data-turbo-eval="false" defer></script>
     <script data-cfasync="false" src="../resources/js/retype.js?v=4.6.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="../resources/js/lunr.js?v=4.6.0.838596333090" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../resources/js/lunr.js?v=4.6.0.840511553243" data-turbo-eval="false" defer></script>
     <script id="mermaid-js" data-cfasync="false" src="../resources/js/mermaid.js?v=4.6.0" defer></script>
 
     <style>
@@ -280,12 +280,17 @@ As they participate in League Meets, teams accumulate a ranking.
 At the league’s capstone League Tournament event, teams play additional matches, enter into playoff rounds, and participate in a judging process for judged awards.
 High-performing teams from the League Tournament will advance to the Florida Championship.</p>
 <div class="overflow-hidden mb-6 py-4 dark:px-5 dark:bg-white rounded-md"><pre translate="no" class="mermaid w-full">graph LR
-    S(Scrimmages&lt;br&gt;_Practice Only_)
-    LM(League Meets&lt;br&gt;_Matches Only_)
-    LT(League Tournament&lt;br&gt;_Matches + Judging_)
-    FL(Florida Championship)
-    FC(_FIRST_ Championship)
-    PE(Premier Events)
+    S(&quot;`**Scrimmages**
+    _Practice Only_`&quot;)
+    LM(&quot;`**League Meets**
+    _Matches Only_`&quot;)
+    LT(&quot;`**League Tournament**
+    _Matches + Judging_`&quot;)
+    FL(&quot;`**Florida Championship**`&quot;)
+    FC(&quot;`**_FIRST_ Championship**
+    _Houston, TX_`&quot;)
+    PE(&quot;`**Premier Events**
+    _Around the world_`&quot;)
 
     S ~~~ LM
     LM --&gt;|Ranking| LT

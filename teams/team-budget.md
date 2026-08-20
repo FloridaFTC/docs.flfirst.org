@@ -3,11 +3,6 @@ Fundraising and outreach are important parts of the learning opportunity present
 
 _FIRST_ publishes grant opportunities for teams on [its website](https://www.firstinspires.org/programs/team-grant-opportunities#program=first_tech_challenge).
 
-!!!
-A new _FIRST_ storefront, with updated options and pricing for several of the items listed below, will be available starting mid-July 2026.
-Amounts on this page are estimates until the new options become available.
-!!!
-
 {.clean .compact}
 Item | Rookie&nbsp;Cost | Veteran&nbsp;Cost | Notes
 --- | ---: | ---: | ---

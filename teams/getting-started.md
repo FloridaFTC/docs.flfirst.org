@@ -9,29 +9,62 @@ We've prepared an example team budget to help you understand the cost to partici
 
 >>> Register your Team
 Teams register with _FIRST_ each season.
+Here's how:
 
 !!!
-A new registration payment experience is coming mid-July 2026.
-Payments cannot be completed until then.
-More information about the registration process will be available soon.
+If you are waiting on _FIRST_-administered grant funding to cover the cost of registration, do not purchase your registration using another method of payment.
+Wait for the grant funds to appear in your team's account.
 !!!
+
+- [Create a _FIRST_ account](https://my.firstinspires.org/AccountManager/Account/Register) (or [login](https://my.firstinspires.org/Dashboard/) if you already have an account).
+- From the "My Teams" screen in the _FIRST_ Dashboard, click the "Create a New Team" button and select _FIRST_ Tech Challenge to start your team.
+  - If you would like sales tax exemption, you may need to [set up a Financial Guarantor](https://help.firstinspires.org/s/article/Do-I-need-to-set-up-a-Financial-Guarantor?language=en_US).
+- Click "Go to _FIRST_ Storefront" to add items to your cart and checkout.
 
 [!ref target="blank" text="Learn More About Registration"](https://www.firstinspires.org/programs/ftc/get-started)
 
->>> Purchase Materials
-Purchase required electronics and an optional kit of parts.
+>>> Purchase Required Electronics
 
 !!!
-A new _FIRST_ storefront, with updated options and pricing for materials, will be available starting mid-July 2026.
-More information about the required electronics will be available then.
+_FIRST_ will introduce a new electronic control system in the 2027–2028 season.
+The current system will be legal for use through at least the 2030–2031 season.
+If possible, reach out to local teams and volunteers to see if you can **borrow** a REV Control Hub or REV Expansion Hub for the 2026–2027 season.
 !!!
 
-Several manufacturers offer season-specific kits to help teams get started:
+The following materials are required for competition and available on the _FIRST_ Storefront:
 
-* [AndyMark](https://andymark.com/pages/2026-2027-robits-starterbot-base)
-* [goBILDA](https://www.gobilda.com/ftc-starter-kit-2026-2027-season/)
-* [REV Robotics](https://www.revrobotics.com/rev-45-3529/)
-* [Studica](https://www.studica.com/ftc-starter-kit-2025-2026-season-decode)
+- **Driver Kit** ($295): This is a cost-effective way to obtain a [REV Driver Hub](https://www.revrobotics.com/rev-31-1596/) and two gamepads for wirelessly controlling the robot.
+  - The Driver Hub is the standard, recommended way of controlling your team's robot, but may be replaced with certain Android devices if necessary.
+    Reach out to the Program Delivery Partner for more information.
+  - The [REV USB Gamepads](https://www.revrobotics.com/rev-31-2983/) are one of several commercial gamepads that can be used.
+    If you are interested in alternatives, reach out to the Program Delivery Partner for more information.
+- **REV Robotics Control Hub V1.1** ($350): This is a cost-effective way to obtain a [REV Control Hub](https://www.revrobotics.com/rev-31-1595/), a legal power switch (required), and several other cables that will be useful.
+  - If possible, see if you can borrow a REV Control Hub for the 2026–2027 season.
+  - This module enables the use of four motors out of a possible eight; you'll need to purchase a [REV Expansion Hub](https://www.revrobotics.com/rev-31-1153/) to use all eight motors.
+    REV Expansion Hubs will be useful in a hybrid electronic system for the 2027–2028 season.
+    Contact the Program Delivery Partner for information and advice on purchasing.
+
+>>> Purchase a Build Kit
+
+Several manufacturers offer starter kits and seasonal update packages.
+It is not required to purchase a kit, but many teams find it helpful to start with a kit.
+The REV Robotics kit is available on the _FIRST_ Storefront, but we encourage considering all of the options:
+
+- [AndyMark](https://andymark.com/pages/2026-2027-robits-starterbot-base): designed for students with limited or developing dexterity
+- [goBILDA](https://www.gobilda.com/ftc-starter-kit-2026-2027-season/): a popular choice among _FIRST_ Tech Challenge teams
+- [REV Robotics](https://www.revrobotics.com/rev-45-3529/): available for payment using _FIRST_-administered grants
+- [Studica](https://www.studica.com/ftc-starter-kit-2026-2027-season-biobuzz): a color-customizable and cross-compatible build system
+
+>>> Purchase Optional Extras
+
+Optional extras available on the storefront or directly from AndyMark include:
+
+- **Field Perimeter** ($740): Useful for many years, this is the "cage" that defines the playing field.
+- **Field Soft Tiles** ($293): Useful for several years (until worn out), this is the "floor" that defines the playing field.
+- **Half or Full Game Set** ($399–599): Useful for the current season, this set contains the season-specific playing elements.
+
+We recommend prioritizing a half or full game set, according to your budget.
+It is also possible to find other non-competition-legal soft tiles at reasonable prices.
 
 >>> Attend or Watch Kickoff
 Each season begins with a kickoff event.
