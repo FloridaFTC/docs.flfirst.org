@@ -89,12 +89,17 @@ High-performing teams from the League Tournament will advance to the Florida Cha
 
 ```mermaid
 graph LR
-    S(Scrimmages<br>_Practice Only_)
-    LM(League Meets<br>_Matches Only_)
-    LT(League Tournament<br>_Matches + Judging_)
-    FL(Florida Championship)
-    FC(_FIRST_ Championship)
-    PE(Premier Events)
+    S("`**Scrimmages**
+    _Practice Only_`")
+    LM("`**League Meets**
+    _Matches Only_`")
+    LT("`**League Tournament**
+    _Matches + Judging_`")
+    FL("`**Florida Championship**`")
+    FC("`**_FIRST_ Championship**
+    _Houston, TX_`")
+    PE("`**Premier Events**
+    _Around the world_`")
 
     S ~~~ LM
     LM -->|Ranking| LT
